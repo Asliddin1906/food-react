@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link, Routes, Route, NavLink } from 'react-router-dom'
+import {  Routes, Route, NavLink } from 'react-router-dom'
 import { Management } from '../Management/Management'
 import "./Settings.css"
 

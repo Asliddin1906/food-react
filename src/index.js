@@ -4,7 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 import App from './App';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
 import "../node_modules/bootstrap/dist/js/bootstrap"
-import CardsProvider, { AuthProvider } from './context/AuthContext';
+import { AuthProvider } from './context/AuthContext';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

@@ -1,5 +1,4 @@
 import {Routes,Route} from 'react-router-dom'
-import { Container } from '../../components/Container/Container'
 import { NavBar } from "../../components/NavBar/NavBar"
 import { Dashboard } from '../Dashboard/Dashboard'
 import { Main } from "../Main/Main"

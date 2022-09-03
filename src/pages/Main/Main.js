@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link, Routes, Route } from 'react-router-dom'
-import search from "../../assets/img/search.png"
 import { HotDishes } from '../HotDishes/HotDishes'
 import { ColdDishes } from '../ColdDishes/ColdDishes'
 import { Grill } from '../Grill/Grill'

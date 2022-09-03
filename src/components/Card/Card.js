@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom"
 import "./Card.css"
 export const Cards = ({obj}) =>{
   

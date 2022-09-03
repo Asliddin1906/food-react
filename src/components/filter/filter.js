@@ -1,6 +1,5 @@
 import React from "react";
-import { useContext, useRef, useState } from "react";
-import zoom from "../../assets/img/search.png"
+import {  useRef, useState } from "react";
 
 
 import "./filter.css"

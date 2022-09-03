@@ -4,7 +4,6 @@ import up from "../../assets/img/up.png"
 import down from "../../assets/img/down.png"
 import saves from "../../assets/img/saves.png"
 import users from "../../assets/img/users.png"
-import controls from "../../assets/img/controls.png"
 import avatar1 from "../../assets/img/Avatar 1.png"
 import "./Dashboard.css"
 import ApexChart from '../../components/Chart/Chart'
