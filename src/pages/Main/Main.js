@@ -10,7 +10,6 @@ import  "./Main.css"
 import { Soup } from '../Soup/Soup'
 import { Appertizer } from '../Appertizer/Appertizer'
 import { Desert } from '../Desert/Desert'
-import Filter from '../../components/filter/filter'
 
 export const Main = () => {
   return (
@@ -22,8 +21,7 @@ export const Main = () => {
           <div>Tuesday, 2 Feb 2021</div>
         </div>
         <div>
-          <Filter/>
-          {/* <input  type="text" className="inp " placeholder="Search for food, coffe, etc..." /> */}
+          <input  type="text" className="inp " placeholder="Search for food, coffe, etc..." />
         </div>
     </div>
 
@@ -61,7 +59,7 @@ export const Main = () => {
         </select>
       </div>
           <Routes>
-            <Route index element={<HotDishes/>}/>
+            <Route index  element={<HotDishes/>}/>
             <Route path='cold' element={<ColdDishes/>}/>
             <Route path='soup' element={<Soup/>}/>
             <Route path='grill' element={<Grill/>}/>

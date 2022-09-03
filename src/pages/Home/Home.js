@@ -16,7 +16,7 @@ export const Home = () => {
       
       <div className='  body overflow-auto '>
       <Routes>
-        <Route index path='/main/*'  element={<Main/>}/>
+        <Route index path='/main/:id/*'  element={<Main/>}/>
         <Route path='/options' element={<>Options</>}/>
         <Route path='/dashboard' element={<Dashboard/>}/>
         <Route path='/message' element={<>Message</>}/>
