@@ -1,0 +1,12 @@
+.body {
+  width:100%;
+  background-color:  #252836;
+  color: white;
+  height: 100vh;
+  padding-top: 20px;
+}
+.orders {
+  background-color: #1F1D2B;
+  color: white;
+  padding: 20px;
+}

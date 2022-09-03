@@ -1,0 +1,19 @@
+.filter {
+  height: 40px;
+  display: flex;
+  margin: auto 0;
+}
+.filter-inp{
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #1F1D2B;
+  color: white;
+}
+.search {
+  background-color: #1F1D2B;
+
+}
+
+
+
+

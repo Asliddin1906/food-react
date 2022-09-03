@@ -1,0 +1,71 @@
+.user, li {
+  list-style-type: none;
+  padding: 10px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.list, .user {
+  background-color: #1F1D2B;
+}
+
+.chart-box, .order {
+  padding: 10px;
+  margin-bottom: 20px;
+  color: white;
+  background-color: #1F1D2B;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.dot1 {
+  background-color: blue;
+  color: blue;
+  border-radius: 50%;
+  padding: 7px;
+  height: 20px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.text {
+  font-size: 12px;
+}
+.dot2 {
+  background-color: green;
+  color: green;
+  border-radius: 50%;
+  padding: 7px;
+  height: 20px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.dot3 {
+  background-color: yellow;
+  color: yellow;
+  border-radius: 50%;
+  padding: 7px;
+  height: 20px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.box-btn {
+  border-radius: 20px;
+  border-color: #EA7C69;
+  background-color: #1F1D2B;
+  color: #EA7C69 ;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}

@@ -1,0 +1,40 @@
+.nav {
+  background-color: #1F1D2B;
+  /*margin-right: 30px;
+  */height: 100vh;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.logo {
+  padding:15px;
+}
+.active, .noactive {
+  border-radius: 10px;
+  background-color: #EA7C69;
+  padding:20px ;  
+  margin: 5% 0;
+  text-align: center;
+  color: aliceblue;
+}
+.noactive {
+  background-color: #1F1D2B;
+  margin: 10px 0;
+}
+.active {
+  border-radius: 12px 0px 0px 12px;
+}
+
+
+
+.active svg {
+  fill: white;
+}
+.noactive svg {
+  fill: #EA7C69;
+}
+
+
+

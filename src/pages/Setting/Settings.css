@@ -1,0 +1,39 @@
+.link-setting {
+  text-decoration: none;
+  background-color: #1F1D2B;
+}
+
+.able, .noable {
+display: flex;
+justify-content: space-around;
+border-radius: 10px;
+padding:20px ;  
+margin: 5% 0;
+text-align: left;
+text-decoration: none;
+color: aliceblue;
+}
+.svg {
+  margin: 0 10px;
+}
+.able {
+background-color: #EA7C6942;
+
+}
+
+.able p {
+  color: #EA7C69;
+}
+.noable svg {
+  fill: white;
+}
+.able svg {
+  fill: #EA7C69;
+}
+
+
+.setting-body {
+  background-color: #1F1D2B;
+  color: white;
+  margin-left: 20px;
+}
